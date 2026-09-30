@@ -1,10 +1,11 @@
 {
-  "name": "Bot Hosting",
+  "name": "Bot Host",
   "description": "Discord bot status and activity controller.",
   "authors": [
     {
       "id": "Mizumaruu",
       "name": "Mizumaruu"
     }
-  ]
+  ],
+  "main": "src/index.tsx"
 }
